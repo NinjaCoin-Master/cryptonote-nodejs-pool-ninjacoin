@@ -204,8 +204,8 @@
             "port": 587,
             "secure": false,
             "auth": {
-                "user": "donotreply@allcoinspool.com",
-                "pass": "cin0h##~~"
+                "user": "emailUser",
+                "pass": "emailpass"
             },
             "tls": {
                 "rejectUnauthorized": false
