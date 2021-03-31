@@ -1,8 +1,8 @@
-# cryptonote-nodejs-pool-turtlecoin-chukwa2
+# cryptonote-nodejs-pool-ninjacoin
 ======================
 
 #### This pool is now operating on this website:
-Turtlecoin Pool
+Ninjacoin Pool
 * https://allcoinspool.com/
 * [GitHub Issues](https://github.com/masterprogrammer513/cryptonote-nodejs-pool-turtlecoin-chukwa2/issues)
 * [Telegram Group](https://t.me/AllCoinsPool)
