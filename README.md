@@ -169,8 +169,8 @@ sudo su - your-user
 Clone the repository and run `npm update` for all the dependencies to be installed:
 
 ```bash
-git clone https://github.com/masterprogrammer513/cryptonote-nodejs-pool-turtlecoin-chukwa2.git pool
-cd pool
+git clone git clone https://github.com/NinjaCoin-Master/cryptonote-nodejs-pool-ninjacoin.git
+cd cryptonote-nodejs-pool-ninjacoin
 
 npm update
 ```
