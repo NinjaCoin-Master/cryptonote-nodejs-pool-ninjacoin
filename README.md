@@ -1,12 +1,10 @@
 # cryptonote-nodejs-pool-ninjacoin
 ======================
 
-#### This pool is now operating on this website:
-Ninjacoin Pool
-* https://allcoinspool.com/
-* [GitHub Issues](https://github.com/masterprogrammer513/cryptonote-nodejs-pool-turtlecoin-chukwa2/issues)
-* [Telegram Group](https://t.me/AllCoinsPool)
-* [Discord Group](https://discord.gg/kZb5VbrSnS)
+#### This pool is now operating on these websites:
+* [Ninjacoin Pool]()
+* [AllCoinsPool](https://allcoinspool.com/)
+
 
 High performance Node.js (with native C addons) mining pool for CryptoNote based coins. Comes with lightweight example front-end script which uses the pool's AJAX API. Support for Cryptonight (Original, Monero v7, Stellite v7), Cryptonight Light (Original, Aeon v7, IPBC) Cryptonight Fast (Electronero/Crystaleum), and Cryptonight Heavy (Sumokoin) algorithms.
 
@@ -177,7 +175,7 @@ npm update
 
 #### 2) Configuration
 
-Copy the `config_examples/COIN.json` file of your choice to `config.json` then overview each options and change any to match your preferred setup.
+Copy the `config_examples/ninja.json` to `config.json` then overview each options and change any to match your preferred setup.
 
 Explanation for each field:
 ```javascript
