@@ -786,12 +786,12 @@ Curl can be used to use the JSON-RPC commands from command-line. Here is an exam
 curl 127.0.0.1:18081/json_rpc -d '{"method":"getblockheaderbyheight","params":{"height":100}}'
 ```
 
-TurtleCoin Section
+Ninjacoin Section
 ===
 
 * 1- Run daemon with enable-blockexplorer command
 ```bash
-./TurtleCoind --enable-blockexplorer 
+./NinjaCoind --enable-blockexplorer --enable-blockexplorer 
 ```
 * 2- Run the wallet-api with coinbase transaction  
 ```bash
