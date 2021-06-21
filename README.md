@@ -2,7 +2,6 @@
 ======================
 
 #### This pool is now operating on these websites:
-* [Ninjacoin Pool]()
 * [AllCoinsPool](https://allcoinspool.com/)
 
 
